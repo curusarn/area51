@@ -1,0 +1,6 @@
+[submodule "jubilant-garbanzo"]
+	path = jubilant-garbanzo
+	url = git@github.com:curusarn/jubilant-garbanzo.git
+[submodule "furry-invention"]
+	path = furry-invention
+	url = git@github.com:curusarn/furry-invention.git

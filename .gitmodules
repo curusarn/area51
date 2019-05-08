@@ -1,0 +1,6 @@
+[submodule "submodules/friendly-octo-adventure"]
+	path = submodules/friendly-octo-adventure
+	url = git@github.com:curusarn/friendly-octo-adventure.git
+[submodule "submodules/furry-invention"]
+	path = submodules/furry-invention
+	url = git@github.com:curusarn/furry-invention.git
